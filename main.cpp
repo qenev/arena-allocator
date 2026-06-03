@@ -129,3 +129,5 @@ int var_63 = 63;
 int var_64 = 64;
 // Code line 65
 int var_65 = 65;
+// Code line 66
+int var_66 = 66;
