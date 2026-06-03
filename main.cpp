@@ -345,3 +345,5 @@ int var_171 = 171;
 int var_172 = 172;
 // Code line 173
 int var_173 = 173;
+// Code line 174
+int var_174 = 174;
