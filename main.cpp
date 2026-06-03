@@ -21,3 +21,5 @@ int var_9 = 9;
 int var_10 = 10;
 // Code line 11
 int var_11 = 11;
+// Code line 12
+int var_12 = 12;
