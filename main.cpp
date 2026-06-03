@@ -301,3 +301,5 @@ int var_149 = 149;
 int var_150 = 150;
 // Code line 151
 int var_151 = 151;
+// Code line 152
+int var_152 = 152;
