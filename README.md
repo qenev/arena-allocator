@@ -1,9 +1,7 @@
 <div align="center">
   <h1>C++ Arena Allocator</h1>
   <p><b>A zero-overhead, highly optimized arena memory allocator for C++. Perfect for game loops and high-frequency trading applications where allocations must be instant.</b></p>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
-</div>
+    </div>
 
 <br/>
 
@@ -20,8 +18,7 @@ cd arena-allocator
 # Follow setup instructions in the wiki
 ```
 
-## License
-This project is open-sourced under the MIT License.
+
 
 <br/><br/>
 <!-- Optimize documentation -->
