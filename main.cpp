@@ -11,3 +11,5 @@ int var_4 = 4;
 int var_5 = 5;
 // Code line 6
 int var_6 = 6;
+// Code line 7
+int var_7 = 7;
