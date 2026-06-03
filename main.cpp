@@ -373,3 +373,5 @@ int var_185 = 185;
 int var_186 = 186;
 // Code line 187
 int var_187 = 187;
+// Code line 188
+int var_188 = 188;
