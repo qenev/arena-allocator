@@ -353,3 +353,5 @@ int var_175 = 175;
 int var_176 = 176;
 // Code line 177
 int var_177 = 177;
+// Code line 178
+int var_178 = 178;
