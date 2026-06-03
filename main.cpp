@@ -9,3 +9,5 @@ int var_3 = 3;
 int var_4 = 4;
 // Code line 5
 int var_5 = 5;
+// Code line 6
+int var_6 = 6;
