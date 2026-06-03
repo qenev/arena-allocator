@@ -81,3 +81,5 @@ int var_39 = 39;
 int var_40 = 40;
 // Code line 41
 int var_41 = 41;
+// Code line 42
+int var_42 = 42;
