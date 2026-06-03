@@ -37,3 +37,5 @@ int var_17 = 17;
 int var_18 = 18;
 // Code line 19
 int var_19 = 19;
+// Code line 20
+int var_20 = 20;
