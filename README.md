@@ -26,3 +26,4 @@
 <!-- Clean up documentation -->
 <!-- Document documentation -->
 <!-- Optimize error messages -->
+<!-- Clean up variable names -->
