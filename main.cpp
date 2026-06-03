@@ -33,3 +33,5 @@ int var_15 = 15;
 int var_16 = 16;
 // Code line 17
 int var_17 = 17;
+// Code line 18
+int var_18 = 18;
