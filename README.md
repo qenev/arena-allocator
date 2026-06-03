@@ -1,4 +1,29 @@
+<div align="center">
+  <h1>C++ Arena Allocator 🧠</h1>
+  <p><b>A zero-overhead, highly optimized arena memory allocator for C++. Perfect for game loops and high-frequency trading applications where allocations must be instant.</b></p>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
+</div>
 
+<br/>
+
+## ✨ Key Features
+- Contiguous memory pooling
+- O(1) allocation time
+- Zero fragmentation
+- Cache-friendly layouts
+
+## 🚀 Quick Start
+```bash
+git clone https://github.com/qenev/arena-allocator.git
+cd arena-allocator
+# Follow setup instructions in the wiki
+```
+
+## 📜 License
+This project is open-sourced under the MIT License.
+
+<br/><br/>
 <!-- Optimize documentation -->
 <!-- Update structure -->
 <!-- Document logic flow -->
