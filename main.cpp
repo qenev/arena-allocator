@@ -59,3 +59,5 @@ int var_28 = 28;
 int var_29 = 29;
 // Code line 30
 int var_30 = 30;
+// Code line 31
+int var_31 = 31;
