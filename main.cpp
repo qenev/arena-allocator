@@ -493,3 +493,5 @@ int var_245 = 245;
 int var_246 = 246;
 // Code line 247
 int var_247 = 247;
+// Code line 248
+int var_248 = 248;
