@@ -103,3 +103,5 @@ int var_50 = 50;
 int var_51 = 51;
 // Code line 52
 int var_52 = 52;
+// Code line 53
+int var_53 = 53;
