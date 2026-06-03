@@ -16,3 +16,4 @@
 <!-- Format configuration -->
 <!-- Update documentation -->
 <!-- Document parameters -->
+<!-- Refactor structure -->
