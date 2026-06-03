@@ -5,3 +5,5 @@ int var_1 = 1;
 int var_2 = 2;
 // Code line 3
 int var_3 = 3;
+// Code line 4
+int var_4 = 4;
