@@ -21,6 +21,14 @@ cd arena-allocator
 
 
 <br/><br/>
+
+
+## Open Source Contribution
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+MIT License. See `LICENSE` for details.
+
 <!-- Optimize documentation -->
 <!-- Update structure -->
 <!-- Document logic flow -->
