@@ -405,3 +405,5 @@ int var_201 = 201;
 int var_202 = 202;
 // Code line 203
 int var_203 = 203;
+// Code line 204
+int var_204 = 204;
