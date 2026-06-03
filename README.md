@@ -8,3 +8,4 @@
 <!-- Improve error messages -->
 <!-- Tweak variable names -->
 <!-- Refactor structure -->
+<!-- Document error messages -->
