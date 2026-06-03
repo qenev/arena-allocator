@@ -95,3 +95,5 @@ int var_46 = 46;
 int var_47 = 47;
 // Code line 48
 int var_48 = 48;
+// Code line 49
+int var_49 = 49;
