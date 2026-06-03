@@ -221,3 +221,5 @@ int var_109 = 109;
 int var_110 = 110;
 // Code line 111
 int var_111 = 111;
+// Code line 112
+int var_112 = 112;
