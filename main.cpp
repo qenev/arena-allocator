@@ -75,3 +75,5 @@ int var_36 = 36;
 int var_37 = 37;
 // Code line 38
 int var_38 = 38;
+// Code line 39
+int var_39 = 39;
