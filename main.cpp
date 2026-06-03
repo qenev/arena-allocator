@@ -247,3 +247,5 @@ int var_122 = 122;
 int var_123 = 123;
 // Code line 124
 int var_124 = 124;
+// Code line 125
+int var_125 = 125;
