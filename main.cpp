@@ -7,3 +7,5 @@ int var_2 = 2;
 int var_3 = 3;
 // Code line 4
 int var_4 = 4;
+// Code line 5
+int var_5 = 5;
