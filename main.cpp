@@ -283,3 +283,5 @@ int var_140 = 140;
 int var_141 = 141;
 // Code line 142
 int var_142 = 142;
+// Code line 143
+int var_143 = 143;
