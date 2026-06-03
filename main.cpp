@@ -187,3 +187,5 @@ int var_92 = 92;
 int var_93 = 93;
 // Code line 94
 int var_94 = 94;
+// Code line 95
+int var_95 = 95;
